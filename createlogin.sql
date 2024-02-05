@@ -1,2 +1,2 @@
-CREATE LOGIN srs WITH PASSWORD= 'Shreya25';
-create user srs for login srs
+CREATE LOGIN ash WITH PASSWORD= '****';
+create user ash for login ash
